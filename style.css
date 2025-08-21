@@ -1,0 +1,10 @@
+body{
+    background-color: dimgray;
+    color: aliceblue;
+font-family: sans-serif;
+margin: 0px;
+}
+header {border-bottom: solid 4px rgb(28, 118, 228);
+padding: 10px;
+font-size: 32px;
+color: darkgrey;}
